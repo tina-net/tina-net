@@ -32,6 +32,5 @@ As a Technical Program Manager (TPM) with a background in system-level developme
 
 ## 🔗 References & Connect
 
-- LinkedIn: [your-link]
 - Notion TPM Summary Page: [your-link]
 
