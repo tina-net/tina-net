@@ -1,80 +1,37 @@
-# AI TPM Notes – NVIDIA Preparation Series
+# TPM AI Inference Notes | TPM 推論架構筆記集
 
-[![Status](https://img.shields.io/badge/Project-In_Progress-blue)](#)
-[![Target](https://img.shields.io/badge/Target-NVIDIA_TPM-green)](#)
-[![LinkedIn](https://img.shields.io/badge/Connect-Tina_Lee-blueviolet)](https://www.linkedin.com/in/your-link)
-[![GitHub Stars](https://img.shields.io/github/stars/tina-net/tpm-ai-notes?style=social)](#)
-
-A curated technical program management notebook focused on AI Infrastructure, ML Workflow, and cross-functional delivery – tailored for Technical Program Manager (TPM) roles in companies like NVIDIA.
+Welcome! This repository documents my self-directed learning journey into AI inference systems, deployment pipelines, and related TPM practices.
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [TPM Role in AI Infrastructure](#tpm-role-in-ai-infrastructure)
-- [Technical Notes](#technical-notes)
-- [Case Studies](#case-studies)
-- [Visual Aids](#visual-aids)
-- [Learning Resources](#learning-resources)
-- [About the Author](#about-the-author)
+## 🔍 Overview | 簡介
+
+As a Technical Program Manager (TPM) with a background in system-level development, I created this repository to consolidate and review key concepts in AI infrastructure — from inference systems like Triton to deployment workflows using ONNX and Transformer-based architectures.
+
+本筆記庫記錄我對 AI 推論系統、模型部署流程及相關 TPM 管理實務的學習與整理，包含 Triton 架構、ONNX Runtime、Transformer 基礎，以及跨部門協作流程的理解。
 
 ---
 
-## Overview
+## 📂 Directory | 筆記結構
 
-This repository documents real-world TPM knowledge and lessons learned from building AI Server Systems.  
-It combines theoretical concepts with practical resolution strategies.
-
----
-
-## TPM Role in AI Infrastructure
-
-- Align HW/FW/SW milestones in ML deployments
-- Coordinate between ML engineers and infra engineers
-- Manage ECO, build risks, and resource planning
-- Oversee integration testing and validation sync points
+- `Triton-Inference/`：Triton Inference Server 架構圖與推論流程筆記  
+- `Transformer-Notes/`：Attention、語言模型核心概念解釋  
+- `Neural-Network-Basics/`：CNN / MLP / 激勵函數學習記錄  
+- `TPM-Workflows/`：TPM 在 AI 專案中的角色、跨 BU 溝通流程
 
 ---
 
-## Technical Notes
+## ✨ Highlights | 技術亮點
 
-- [`Triton Inference Architecture`](notes/triton-architecture-tpm.md)  
-  Multi-framework AI model serving, batching strategies, resource optimization, and TPM touchpoints
-
-- [`TPM Knowledge Map`](notes/tbd.md)  
-  (Planned) TPM skills matrix, coordination model, and lifecycle checkpoints
-
----
-
-## Case Studies
-
-- [`HW-SW Integration Conflict Resolution`](notes/tpm-case-hw-sw-conflict.md)  
-  How a TPM enabled an on-time EVT build by mitigating firmware gaps with fallback planning
+- Triton Inference Server 多模型部署架構理解
+- 推論流程圖與框架比較：ONNX / TensorRT / PyTorch
+- TPM 技能與 AI 基礎知識整合筆記
+- 中英對照，強化理解與表達
 
 ---
 
-## Visual Aids
+## 🔗 References & Connect
 
-> *(To be added)*  
-> - AI Inference Stack Diagram  
-> - ECO Timeline Overlay  
-> - TPM Risk Resolution Matrix  
+- LinkedIn: [your-link]
+- Notion TPM Summary Page: [your-link]
 
----
-
-## Learning Resources
-
-- [NVIDIA DLI – Triton Inference Server](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1/)
-- [Coursera – ML Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
-- [RDMA Programming Fundamentals](https://www.coursera.org/learn/the-fundamentals-of-rdma-programming)
-
----
-
-## About the Author
-
-**Tina Lee**  
-Senior Technical Program Manager (TPM)  
-Cross-functional program leader in AI server platform development and firmware/software integration.  
-Currently targeting TPM roles at **NVIDIA** with focus on **AI Infrastructure** and **Enterprise Server Software**.  
-
-> [LinkedIn](https://www.linkedin.com/in/your-link) | [Resume PDF](#) | GitHub: [tina-net](https://github.com/tina-net)
