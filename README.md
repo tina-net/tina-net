@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner_tpm_ai_inference.png" alt="TPM × AI Inference Banner" width="100%" />
+</p>
+
+
 # 👋 Hi, I'm Tina
 
 🎯 A Technical Program Manager (TPM) with a NB system development background, currently transitioning into AI infrastructure and inference workflows.
