@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tina
 
- I’m a Technical Program Manager with a background in system development, currently transitioning into AI infrastructure and inference.
+ I’m a Technical Program Manager with a background in NB system development, currently transitioning into AI infrastructure and inference.
 
 🔧 This is where I document:
 - AI inference systems (Triton, ONNX, Transformers)
