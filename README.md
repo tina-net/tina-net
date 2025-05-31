@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tina-net/tina-net/main/assets/banner_tpm_ai_inference.png" alt="TPM × AI Inference Banner" width="100%" />
+  <img src="banner_tpm_ai_inference.png" alt="TPM × AI Inference Banner" width="100%" />
 </p>
 
 
