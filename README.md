@@ -7,7 +7,7 @@
 - TPM cross-functional collaboration strategies
 - Course notes from Coursera & NVIDIA DLI
 
-# Featured Repository:
-# [TPM-Technical-Sharing](https://github.com/tina-net/TPM-Technical-Sharing)
+ Featured Repository:
+[TPM-Technical-Sharing](https://github.com/tina-net/TPM-Technical-Sharing)
 
-# Contact me via Nition (https://www.notion.so/TPM-Technical-Note-1ffe42b98dc680f28989f33d41ccd9eb?showMoveTo=true)
+ Contact me via Nition (https://www.notion.so/TPM-Technical-Note-1ffe42b98dc680f28989f33d41ccd9eb?showMoveTo=true)
