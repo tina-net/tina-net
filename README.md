@@ -1,15 +1,13 @@
-# 建立主資料夾結構
-mkdir -p AI_Infra/AIOps_Coursera
-mkdir -p GenAI_NVIDIA_DLI
-mkdir -p IT_Support/01_Technical_Support_Fundamentals
-mkdir -p NB_Development
+# 👋 Hi, I’m Tina
 
-# 建立初始 README.md 檔案
-echo "# 📦 AI Infrastructure and Operations Fundamentals (Coursera)" > AI_Infra/AIOps_Coursera/README.md
+🎯 I’m a Technical Program Manager with a background in system development, currently transitioning into AI infrastructure and inference.
 
-echo "# 🤖 NVIDIA DLI: Generative AI Explained" > GenAI_NVIDIA_DLI/README.md
+🔧 This is where I document:
+- AI inference systems (Triton, ONNX, Transformers)
+- TPM cross-functional collaboration strategies
+- Course notes from Coursera & NVIDIA DLI
 
-echo "# 🛠 Technical Support Fundamentals (Google | Coursera)" > IT_Support/01_Technical_Support_Fundamentals/README.md
+📂 Featured Repository:
+👉 [TPM-Technical-Sharing](https://github.com/tina-net/TPM-Technical-Sharing)
 
-echo "# 💼 Notebook Development & Debug TPM Notes" > NB_Development/README.md
-
+📫 Contact me via Nition (https://www.notion.so/TPM-Technical-Note-1ffe42b98dc680f28989f33d41ccd9eb?showMoveTo=true)
