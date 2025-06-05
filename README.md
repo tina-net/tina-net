@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Tina
 
-🎯 A Technical Program Manager (TPM) with a NB system development background, currently transitioning into AI infrastructure and inference workflows.
+🎯 A Technical Program Manager (TPM) with a NB system development background, currently driving into AI infrastructure and inference workflows.
 
 I document and share technical learnings in a bilingual format (English/中文), with a focus on:
 
